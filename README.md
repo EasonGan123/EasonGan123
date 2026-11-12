@@ -20,7 +20,7 @@ I build products people actually use, then grow them without paid ads. Raised be
 | Repo | Summary | Stack |
 | --- | --- | --- |
 | [matchbook](https://github.com/EasonGan123/matchbook) | Agent that resolves invoice exceptions caught by three-way match: finds the root cause, drafts the fix, routes approval and follows up. Deterministic variance engine, guardrails and an eval harness. | Python, FastAPI, Claude, MCP, Next.js |
-| [matchbook-web](https://github.com/EasonGan123/matchbook-web) | Browser-only interactive demo of Matchbook, with no backend or API keys. | Next.js 16, React 19 |
+| [digester](https://github.com/EasonGan123/digester) | Turns the reels and videos you save into understanding and action: imports Instagram and YouTube history, finds themes and trends, and runs plain-language rules that deliver to email and calendar. Team project, currently at the design and backend stage. | Python, FastAPI, Supabase, pgvector |
 | [EasonGan123.github.io](https://github.com/EasonGan123/EasonGan123.github.io) | Source for my portfolio, built around a single persistent WebGL particle field. | Next.js, TypeScript, OGL, GSAP |
 | [neetcode-submissions](https://github.com/EasonGan123/neetcode-submissions) | Data structures and algorithms practice. | Python |
 
